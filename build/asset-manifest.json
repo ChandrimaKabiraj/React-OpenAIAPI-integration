@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-OpenAIAPI-integration/static/css/main.e931bd18.css",
+    "main.js": "/React-OpenAIAPI-integration/static/js/main.c7306fb1.js",
+    "static/js/453.854594f1.chunk.js": "/React-OpenAIAPI-integration/static/js/453.854594f1.chunk.js",
+    "index.html": "/React-OpenAIAPI-integration/index.html",
+    "main.e931bd18.css.map": "/React-OpenAIAPI-integration/static/css/main.e931bd18.css.map",
+    "main.c7306fb1.js.map": "/React-OpenAIAPI-integration/static/js/main.c7306fb1.js.map",
+    "453.854594f1.chunk.js.map": "/React-OpenAIAPI-integration/static/js/453.854594f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e931bd18.css",
+    "static/js/main.c7306fb1.js"
+  ]
+}
